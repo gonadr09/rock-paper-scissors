@@ -9,6 +9,9 @@ Ejercicio de práctica para reforzar conocimientos de useState y useEffect
 
 ## 🎮 ¿Cómo ejecutarlo?
 1) git clone https://github.com/gonadr09/rock-paper-scissors
+
 2) cd rock-paper-scissors
+
 3) npm i
+
 4) npm start
